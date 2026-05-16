@@ -8,7 +8,8 @@ Analysis of user retention from January to June 2025 using SQL and Google Sheets
 * **Google Sheets:** Built pivot tables, applied slicers for promo flags, calculated the **Retention Rate Matrix (%)**, and highlighted trends via conditional formatting.
 
 ## Visualizations
-<img width="912" height="292" alt="image" src="https://github.com/user-attachments/assets/6e8e228f-d289-4431-bc42-28fd7c3869f2" />
+<img width="915" height="295" alt="image" src="https://github.com/user-attachments/assets/f789941a-36c4-4428-9cf9-68c30a0f6255" />
+
 
 ## Key Insights
 * **Organic vs. Promo:** Organic users (`promo_signup_flag = 0`) demonstrate significantly higher and more stable retention rates than promo-driven users.
